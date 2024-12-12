@@ -1,11 +1,11 @@
 <h1 align="center">
-  <a href="https://kohtut.dev/2020/08/05/yo-yo-player/"><img src="https://raw.githubusercontent.com/ko-htut/yoyo-player/master/yoyo_logo.png" alt="KoHtut"></a>
+  <a href="https://github.com/BishtHimanshu20000/Custom_HLS_videoplayer"><img src="https://raw.githubusercontent.com/ko-htut/yoyo-player/master/yoyo_logo.png" alt="KoHtut"></a>
 </h1>
 
-# YoYo Video Player
+# Custom HLS Video Player
 
 Custom HLS video player is an improvement of Lecle YoYo Video Player is a HLS(.m3u8) video player for flutter (migrate from [yoyo_player](https://pub.dev/packages/yoyo_player) package).
-The [lecle_yoyo_player](https://pub.dev/packages/lecle_yoyo_player) is a video player that allows you to select HLS video streaming by selecting the
+The [Custom HLS video player](https://pub.dev/packages/custom_hls_video) is a video player that allows you to select HLS video streaming by selecting the
 quality. Lecle YoYo Player wraps [video_player](https://pub.dev/packages/video_player) under the hood and provides base architecture for developers
 to create their own set of UI and functionalities.
 
