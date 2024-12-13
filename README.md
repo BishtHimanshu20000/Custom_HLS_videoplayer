@@ -43,7 +43,7 @@ Open Xcode and change the deployment target of your project to `11`.
 1. Add dependency, open the root directory `pubspec.yaml` file in `dependencies:`. Add the following code below:
 
  ```yaml
- lecle_yoyo_player: #latest_version
+ custom_hls_video: #latest_version
  ```
 
 2. Installation dependencies (please ignore if it has been installed automatically)
@@ -56,7 +56,7 @@ Open Xcode and change the deployment target of your project to `11`.
 3. Introduce the library in the page
 
 ```dart
-import 'package:lecle_yoyo_player/lecle_yoyo_player.dart';
+import 'package:custom_hls_video/lecle_yoyo_player.dart';
 ```
 ## Usage
 

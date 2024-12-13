@@ -1,6 +1,6 @@
 name: custom_hls_video
 description: Custom HLS video player is improvement of Lecle YoYo Video Player is a HLS(.m3u8) video player for flutter. This video player  allows you to select HLS video streaming by selecting the quality.
-version: 0.0.3
+version: 0.0.5
 homepage: https://github.com/BishtHimanshu20000/Custom_HLS_videoplayer.git
 repository: https://github.com/BishtHimanshu20000/Custom_HLS_videoplayer.git
 
@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.5
+  http: ^1.2.2
   auto_orientation: ^2.3.1
   path_provider: ^2.0.12
   flutter_screen_wake: ^1.0.2
